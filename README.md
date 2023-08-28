@@ -1,13 +1,9 @@
-# Azure - Remote State
+# Azure - Storage Account
 
 Projeto de infraestrutura Azure com Terraform.
 Este projeto é de cunho educacional, com o objetivo de por em prática conhecimentos obtidos na stack Terraform.
 
 Links úteis:
-
-- [Provider AWS](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
-- [Resource aws_s3_bucket](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket)
-
 ---
 
 - [Provider Azurerm](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
